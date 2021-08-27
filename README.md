@@ -1,40 +1,23 @@
 <div align="center">
   <h1>Xp-op</h1>
-  <h2>a programmer</h2>
+  <h2>"Avast deleted my compiled c++ code again..."</h2>
 </div>
 
-### About me
-I have been working on 23 projects and almost all of them is not done yet. I'm a programmer since Dec 2020. Although I'm a new one, I had learned a lot of things and now I'm currently making my own interpreter in C++.
+### About
+I like Python(not that snake). At first I like C++ until I realize that Rust is much safer.
+Currently, I'm interest in Programming Language Design like making my own interpreter or compiler.
 
-### All language I have learned
-- **Python**
+### Current Project
+I'm making my own programming language, Derex. It would be dynamically typed.
 
-  This is my first high level language and also my favourite language
-
-- **C++**
-
-  This is my second high level language. I'm still learning it.
-  
-- **Javascript**
-
-  I learned JS just to make a client-side page and also make a html5 game.
-  
-- **ASM**
-
-  I also learn Assembly a bit. My first low level language.
-  
-- **PHP**
-
-  I regret learning it.
-
-- **C**
-
-  C is just like C++ but has less features
-  
-- **C#**
-
-  Java ripoff
-  
-- **Java**
-
-  C# ripoff
+### Languages that I learned so far
+Python
+C++
+C
+Java (Java is memory consuming and slow)
+C#
+asm x86 (not really)
+html (not a programming language but still a language)
+css (not a programming language but still a language)
+Javascript
+Rust
